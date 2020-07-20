@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with: everything
 - 💬 Ask me about: stuff
 - 📫 How to reach me: how
-- 😄 Pronouns: who/gives/a/fuck/lmao
+- 😄 Pronouns: he/him/she/her/they/them/it/that/person/human/john/bot
 - ⚡ Fun fact: this readme is d
